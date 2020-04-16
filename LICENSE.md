@@ -1,6 +1,4 @@
-Copyright (c) 2017 marks1024
-
-Copyright (c) 2020 Mahrud Sayrafi
+Copyright (c) 2017 marks1024, 2020 Mahrud Sayrafi
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

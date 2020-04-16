@@ -10,7 +10,7 @@
     "geometry",
     "mathematics"
   ],
-  "repository": "https://github.com/mahrud/language-macaulay2",
+  "repository": "https://github.com/Macaulay2/language-macaulay2",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
