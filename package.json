@@ -2,6 +2,9 @@
   "name": "language-macaulay2",
   "version": "0.1.4",
   "description": "Syntax highlighting for the Macaulay2 language",
+  "scripts": {
+    "update": "M2 --script generate-grammar.m2"
+  },
   "keywords": [
     "language",
     "grammar",
